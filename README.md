@@ -1,1 +1,0 @@
-# avatarux-test

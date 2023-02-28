@@ -1,0 +1,14 @@
+{
+  "width": 1440,
+  "height": 1440,
+  "numReels": 5,
+  "numRows": 3,
+  "maxRow": 6,
+  "symbolWidth": 200,
+  "symbolHeight": 200,
+  "minWayLength": 3,
+  "reeldDropDuration": 400,
+  "reelDropDelay": 80,
+  "symbolDropDuration": 300,
+  "symbolDropDelay": 80
+}
